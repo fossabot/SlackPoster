@@ -1,6 +1,7 @@
 # SlackPoster
 
 [![SlackPoster](https://img.shields.io/nuget/v/SlackPoster)](https://www.nuget.org/packages/SlackPoster/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyinyangdev%2FSlackPoster.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyinyangdev%2FSlackPoster?ref=badge_shield)
 
 
 Post a message to Slack easily.
@@ -34,3 +35,7 @@ sp.PostMessage("hello world.")
 
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyinyangdev%2FSlackPoster.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyinyangdev%2FSlackPoster?ref=badge_large)
